@@ -11,7 +11,7 @@ def read_input_file(file_name: str) -> pd.DataFrame:
     Returns:
         - pd.DataFrame: Dataframe containing the data.
     """
-    file_path = os.path.join(os.getcwd(), 'data_transformation_test', "sample_input.xlsx")
+    file_path = os.path.join(os.getcwd(), "sample_input.xlsx")
     input_df = pd.read_excel(file_path, sheet_name="input_refresh_template", engine='openpyxl')
     return input_df
 
