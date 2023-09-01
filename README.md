@@ -5,7 +5,7 @@ The project is designed to transform a specific structure of data from an Excel 
 
 ## Expected Input and Output 📥📤
 - Input: Excel file containing site metrics in rows.
-- Output: Dataframe with columns ['Day of Month', 'Date', 'Site ID', 'Page Views', 'Unique Visitors', 'Total Time Spent', 'Visits', 'Average Time Spent on Site'].
+- Output: Excel file with columns ['Day of Month', 'Date', 'Site ID', 'Page Views', 'Unique Visitors', 'Total Time Spent', 'Visits', 'Average Time Spent on Site'].
 
 ## Installation Steps 🔧
 1. Clone the `data_transformation_test` repository to your local machine.
