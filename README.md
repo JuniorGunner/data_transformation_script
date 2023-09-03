@@ -21,6 +21,7 @@ The project is designed to transform a specific structure of data from an Excel 
     ```bash
     python data_transformation.py
     ```
+3. Check for a `output.xlsx` file at the root of your repository;
 
 ## Instructions to Run Tests 🧪
 1. Install `pytest` (should be already satisfied when you installed requirements.txt):
