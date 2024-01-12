@@ -1,4 +1,4 @@
-# Data Transformation Test 🔄
+# Data Transformation Script 🔄
 
 ## Purpose of the Project 🚀
 The project is designed to transform a specific structure of data from an Excel file into a more structured and usable format.
